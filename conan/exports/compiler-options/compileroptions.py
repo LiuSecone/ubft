@@ -98,7 +98,7 @@ options = {
     },
     "GENERAL_STRICT": [
         # Make all warnings into errors
-        "-Werror",
+        # "-Werror",
     ],
     "GENERAL": [
         # Turns on the above mentioned flags

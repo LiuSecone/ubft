@@ -6,6 +6,7 @@
 #include <functional>
 #include <future>
 #include <memory>
+#include <optional>
 #include <queue>
 #include <stdexcept>
 #include <thread>
